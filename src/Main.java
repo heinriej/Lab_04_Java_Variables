@@ -39,6 +39,22 @@ public class Main
       doubleDifference = doubleOperandA - doubleOperandB;
       System.out.println("The difference of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleDifference);
 
+
+      int numOfKids = 4;
+      System.out.println("The number of kids in your family is " + numOfKids);
+      boolean raining = false;
+      System.out.println("The answer to is it raining is " + raining);
+      double pricePerGal = 3.54;
+      System.out.println("The price of a gallon of gas is " + pricePerGal);
+      int favNumber = 32;
+      System.out.println("Your favorite number is " + favNumber);
+      double shoeSize = 11.5;
+      System.out.println("Your shoe size is " + shoeSize);
+      int birthMonth = 8;
+      System.out.println("Your birth month is " + birthMonth);
+      String fullName = "Elijah Heirich";
+      System.out.println("Your full name is " + fullName);
+
     }
 }
 
